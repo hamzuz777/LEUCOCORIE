@@ -1,1 +1,2 @@
 # LEUCOCORIE
+'application de détection de la leucocorie est un outil médical innovant conçu pour aider à l'identification précoce de la leucocorie, un signe potentiel de maladies oculaires graves telles que le rétinoblastome ou la cataracte congénitale. Elle utilise des techniques avancées d'imagerie et d'intelligence artificielle pour analyser des photos des yeux des patients, en recherchant le reflet blanc anormal (leucocorie) qui peut apparaître sur la pupille.
